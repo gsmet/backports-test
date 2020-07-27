@@ -8,7 +8,7 @@ Project used for testing our backporting application
 
 ## GREAT, GREAT PROJECT
 
-A truly tremndous project.
+A truly tremendous project.
 
 People love it.
 
