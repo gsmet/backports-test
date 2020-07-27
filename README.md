@@ -10,5 +10,5 @@ Project used for testing our backporting application
 
 A truly tremndous project.
 
-People lve it.
+People love it.
 
